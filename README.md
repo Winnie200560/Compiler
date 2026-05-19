@@ -6,4 +6,5 @@
 2. Разработайте набор тестов для тестирования модуля ввода-вывода.
 3. Выполните тестирование модуля ввода-вывода.
 ## Тестирование
-<img width="1225" height="587" alt="image" src="https://github.com/user-attachments/assets/e905a62d-331c-4501-b171-b0f1765c5567" />
+<img width="1356" height="436" alt="image" src="https://github.com/user-attachments/assets/9ffa2527-bf3a-4211-ae61-c9fd9c391c3d" />
+
