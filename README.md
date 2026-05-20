@@ -7,4 +7,6 @@
 3. Выполните тестирование модуля ввода-вывода.
 ## Тестирование
 <img width="1356" height="436" alt="image" src="https://github.com/user-attachments/assets/9ffa2527-bf3a-4211-ae61-c9fd9c391c3d" />
+<img width="1206" height="519" alt="image" src="https://github.com/user-attachments/assets/3b0b3d53-1254-44eb-b90d-c5ada31e6cee" />
+
 
