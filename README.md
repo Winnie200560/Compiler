@@ -20,3 +20,4 @@
 допустимого диапазона;
 - для идентификаторов выполнять поиск по таблице ключевых слов.
 ## Тестирование
+<img width="1309" height="400" alt="image" src="https://github.com/user-attachments/assets/1caa4a15-4b98-4555-a38f-84a3532e9df9" />
